@@ -43,7 +43,7 @@ I am a senior Computer Programming student who loves coding, reading books, and 
 
 ### 💬 Connect with Me
 
-- 💼 **LinkedIn:** [LinkedIn Profile]([https://linkedin.com/in/LINKEDIN_KULLANICI_ADIN](https://www.linkedin.com/in/s%C3%BCmeyye-ikbal-g%C3%BCm%C3%BC%C5%9F-914632394/))
+- 💼 **LinkedIn:** https://linkedin.com/in/LINKEDIN_KULLANICI_ADIN](https://www.linkedin.com/in/s%C3%BCmeyye-ikbal-g%C3%BCm%C3%BC%C5%9F-914632394/
 - ✉️ **Email:** sumeyyeikbalgumus@gmail.com
 
 ---
